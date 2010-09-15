@@ -1,0 +1,23 @@
+&input
+
+year = 2010 
+
+month = 6
+
+day = 20         
+
+tz = -3                    ! Time zone 
+
+phi = -33.03d0            ! latitude (deg)
+
+sigma = -71.60d0            ! longitude (deg)
+
+elev = 70.0d0               ! elevation (m)
+
+press = 1010.d0            ! pressure (mbar)
+
+Temp = 15.5d0              ! temperature (Celsius)
+
+Delta_T = 64.652d0         ! difference between Earth rotation time and terretrial
+                           ! time (get it from Astronomical Almanac) 
+/
